@@ -2,6 +2,15 @@
 
 Programa em C que une **algoritmos de ordenação** com **manipulação de arquivos**. Tudo é feito em um único programa com menu interativo.
 
+## Integrantes
+
+| Nome | RGM |
+|---|---|
+| Pablo Soares Gomes | 49150308 |
+| Alexander Serafim | 049269569 |
+| Felipe Dias Gomes | 48814342 |
+| João Vitor Rocha Silva | 47170867 |
+
 ## Funcionalidades
 
 1. **Cria e grava** um arquivo com dados numéricos desordenados (`dados.txt`). Os valores podem ser digitados ou gerados aleatoriamente.
